@@ -1,10 +1,6 @@
-cat > README.md << 'EOF'
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=200&section=header&text=Nakrit%20Chalapisit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Gamer%20%7C%20Future%20Developer&descSize=18&descAlignY=60" width="100%" alt="banner" />
-
-<img src="https://github.com/USERNAME.png?size=200" width="140" alt="avatar" />
 
 # Hi, I'm Boss 👋
 
@@ -60,19 +56,6 @@ cat > README.md << 'EOF'
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -87,4 +70,3 @@ cat > README.md << 'EOF'
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
-EOF
