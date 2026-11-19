@@ -8,9 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=orange)
-
 </div>
 
 ---
