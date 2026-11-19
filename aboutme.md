@@ -1,5 +1,3 @@
-cat > README.md << 'EOF'
-
 # Sawatdee kub I am [Nakrit Chalapisit]
 
 ## 🙋 About me
@@ -13,6 +11,6 @@ cat > README.md << 'EOF'
 
 `Python` `JavaScript` `HTML/CSS` `Git`
 
-## 📫 ติดต่อ
+## 📫 Contact
 
 - Email: nakrit0225@gmail.com
