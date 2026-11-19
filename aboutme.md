@@ -1,10 +1,6 @@
-cat > README.md << 'EOF'
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Sawasdee+krub!+%F0%9F%91%8B;I'm+Nakrit+Chalapisit;Student+%26+Gamer+%F0%9F%8E%AE;Welcome+to+my+profile!" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
 
 </div>
 
